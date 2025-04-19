@@ -142,6 +142,8 @@ a.active, a:hover {
 
 .content .btn button:nth-child(1) {
   margin-right: 15px;
+  color: #fff;
+
 }
 
 .content .btn button:nth-child(2) {
